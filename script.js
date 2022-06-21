@@ -14,4 +14,4 @@ document.write("<h2>NAME:-<br>My name is ISIAKPONA DANIEL</h2>");
 
 document.write("<h3>HEIGHT:-<br>I am 5'11feet tall</h3>");
 
-document.write("<h4>NAME:-<br>I am from NIGERIA</h4>");
+document.write("<h4>COUNTRY:-<br>I am from NIGERIA</h4>");
